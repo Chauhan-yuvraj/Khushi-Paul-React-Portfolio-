@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Khushi-Paul-React-Portfolio-/static/css/main.ac54324f.css",
+    "main.js": "/Khushi-Paul-React-Portfolio-/static/js/main.d8840eb1.js",
+    "static/js/787.bfd2d5f3.chunk.js": "/Khushi-Paul-React-Portfolio-/static/js/787.bfd2d5f3.chunk.js",
+    "static/media/rabit.png": "/Khushi-Paul-React-Portfolio-/static/media/rabit.84de9224637e82cbb168.png",
+    "index.html": "/Khushi-Paul-React-Portfolio-/index.html",
+    "main.ac54324f.css.map": "/Khushi-Paul-React-Portfolio-/static/css/main.ac54324f.css.map",
+    "main.d8840eb1.js.map": "/Khushi-Paul-React-Portfolio-/static/js/main.d8840eb1.js.map",
+    "787.bfd2d5f3.chunk.js.map": "/Khushi-Paul-React-Portfolio-/static/js/787.bfd2d5f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac54324f.css",
+    "static/js/main.d8840eb1.js"
+  ]
+}
