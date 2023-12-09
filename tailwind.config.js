@@ -6,7 +6,8 @@ module.exports = {
       colors:{
         EerieBlack : '#1B1B1B',
         TextColor  : '#9C9C9C',
-        BtnColor : '#3F8E00' 
+        BtnColor : '#3F8E00',
+        GreenText : '#70FF00'
       },
       fontFamily:{
         IBM :['IBM Plex Mono', 'monospace'],
